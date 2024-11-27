@@ -6,6 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Please instal depends bellow: `
+    - "axios"
+    - "react"
+    - "react-dom"
+    - "react-icons"
+    - "react-modal"
+    - "react-redux"
+    - "react-router-dom"
+    - "react-scripts"
+    - "react-toastify"
+    - "web-vitals"
+
 ### `npm start`
 
 Runs the app in the development mode.\
